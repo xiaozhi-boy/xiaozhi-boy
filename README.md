@@ -1,9 +1,23 @@
-## Hi there 👋
+<div align="center">
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 
 <!-- profile logo 个人资料徽标 -->
   <div>
     <img src="https://komarev.com/ghpvc/?username=xiaozhi-boy&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
+
+## Hi there 👋
+
+
 
 ![xiaozhi-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhi-boy)
 
