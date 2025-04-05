@@ -45,7 +45,7 @@
 
 
 <!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
+![Metrics](https://metrics.lecoq.io/xiaozhi-boy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 <!-- GitHub 数据统计 -->
 
