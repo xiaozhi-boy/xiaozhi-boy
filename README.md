@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<!-- profile logo 个人资料徽标 -->
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=xiaozhi-boy&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
+
 ![xiaozhi-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhi-boy)
 
 ### My Skill Set
