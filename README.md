@@ -42,11 +42,6 @@
 
 ## 📊 GitHub 数据统计
 
-
-
-<!-- metrics 基础资料 -->
-![Metrics](https://metrics.lecoq.io/xiaozhi-boy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
 <!-- GitHub 数据统计 -->
 
 <img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xiaozhi-boy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
